@@ -10,5 +10,9 @@ Currently it is only available in portuguese and in light mode, I will come back
 **App URL:**
 [Visit My Reactive Web App Curriculum](./AppURL.txt)
 
+**ScreenShots:**
+![Preview Web](screenshots/previewweb.png)
+![Preview Mobile](screenshots/previewMobile.png)
+
 **Feedback and Contributions:**
 I welcome your feedback! Feel free to open issues for suggestions or contribute to the improvement of this web app.
