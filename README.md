@@ -15,5 +15,8 @@ Currently it is only available in portuguese, I will come back to it to add a ch
 ![Preview Mobile](screenshots/previewMobile.png)
 ![Preview Mobile](screenshots/darkmode.png)
 
+**Updates**
+29/01/24 - Darkmode Added
+
 **Feedback and Contributions:**
 I welcome your feedback! Feel free to open issues for suggestions or contribute to the improvement of this web app.
