@@ -16,7 +16,9 @@ No exoected new features to be developed, might only do minor UI changes
 ![Preview Mobile](screenshots/darkmode.png)
 
 **Updates:**
+
 29/01/24 - Darkmode Added
+
 31/01/24 - Language Selector(Portuguese/English) and translation done
 
 **Feedback and Contributions:**
