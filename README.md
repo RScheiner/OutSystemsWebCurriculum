@@ -5,7 +5,7 @@ Explore my professional journey and skills with this interactive Reactive Web Ap
 Visit the app URL to interact with my curriculum. Explore different sections, hover over project details, and get a comprehensive overview of my qualifications.
 
 **Future Updates:**
-Currently it is only available in portuguese, I will come back to it to add a change language option to display either portuguese or english.
+No exoected new features to be developed, might only do minor UI changes
 
 **App URL:**
 [Visit My Reactive Web App Curriculum](./AppURL.txt)
@@ -17,6 +17,7 @@ Currently it is only available in portuguese, I will come back to it to add a ch
 
 **Updates:**
 29/01/24 - Darkmode Added
+31/01/24 - Language Selector(Portuguese/English) and translation done
 
 **Feedback and Contributions:**
 I welcome your feedback! Feel free to open issues for suggestions or contribute to the improvement of this web app.
